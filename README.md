@@ -4,7 +4,7 @@
 
 A web-based **Governance, Risk, and Compliance (GRC) Dashboard** built using Python and Dash to help security and compliance teams track, assess, and visualize cybersecurity risks, compliance mappings, and mitigation status.
 
-![Dashboard Screenshot](demo_screenshot.png)
+
 
 ---
 
