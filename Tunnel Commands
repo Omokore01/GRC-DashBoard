@@ -1,0 +1,2 @@
+!python3 app_grc_dashboard.py
+!./cloudflared tunnel --url http://localhost:8050
