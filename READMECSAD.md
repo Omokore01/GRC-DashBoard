@@ -4,7 +4,7 @@ This interactive dashboard helps cloud engineers, DevSecOps teams, and cybersecu
 
 It simulates a real-world security assessment interface using dummy data, giving users insights into cloud misconfigurations across services, severity levels, and regions.
 
-![Dashboard Screenshot](demo_screenshot.png)
+
 
 ---
 
@@ -33,8 +33,11 @@ It simulates a real-world security assessment interface using dummy data, giving
 cloud-security-dashboard/
 │
 ├── app_cloud_dashboard.py # Main Dash application
+|
 ├── requirements.txt # Python dependencies
+|
 ├── README.md # Project documentation
+|
 └── demo_screenshot.png # Optional UI preview
 
 
